@@ -1,3 +1,4 @@
+import './Card.css'
 function Card({product,addToCart,cartItems}){
     return <div className='col-lg-4 border mt-2 p-2'>
     <div className='row'>

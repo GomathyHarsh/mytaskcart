@@ -39,7 +39,7 @@ function App() {
       id:4
     },
     {
-      image:"https://media.croma.com/image/upload/v1642580441/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/247597_12_e5x40i.png",
+      image:"https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-97-2018-1.jpg",
       name:"Samsung Tab",
       Price: 100000,
       ratings:4.2,
